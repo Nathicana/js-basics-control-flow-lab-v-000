@@ -17,7 +17,7 @@ function ternaryCheckCity(city){
   let result
   if (city = 'NYC'){
     result = 'Ok, sounds good.'
-  } if (city != 'NYC'){
+  } else{
     result = 'No go.';
   }
 
