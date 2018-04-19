@@ -20,6 +20,6 @@ function ternaryCheckCity(city){
   } if (city != 'NYC'){
     result = 'No go.';
   }
-}
+
   return result
 }
