@@ -12,3 +12,10 @@ if (feet > 2500){
 }
 return result
 }
+
+function ternaryCheckCity(city){
+  let result
+  if (city = NYC){
+    result = 'Ok, sounds good.';
+  }
+}
